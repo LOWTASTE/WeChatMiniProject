@@ -1,0 +1,37 @@
+{
+  "pages":[    
+    "pages/coin/coin",
+    "pages/2048/2048",
+    "pages/code/code",
+    "pages/calculate/calculate",
+    "pages/logs/logs"
+  ],
+  "window":{
+    "backgroundTextStyle":"dark",
+    "navigationBarBackgroundColor": "#1C1C1C",
+    "navigationBarTitleText": "LOWT",
+    "navigationBarTextStyle":"white",
+    "enablePullDownRefresh": false,
+    "backgroundColor": "#FF0000"
+  },
+  "tabBar": {
+    "list": [{
+      "pagePath": "pages/coin/coin",
+      "text": "ONE",
+      "iconPath": "img/icon/archery.png",
+      "selectedIconPath": "img/icon/sword.png"
+    },{
+      "pagePath": "pages/2048/2048",
+      "text": "TWO",
+      "iconPath": "img/icon/archery.png",
+      "selectedIconPath": "img/icon/sword.png"
+    },{
+      "pagePath": "pages/code/code",
+      "text": "THREE",
+      "iconPath": "img/icon/archery.png",
+      "selectedIconPath": "img/icon/sword.png"
+    }]
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}

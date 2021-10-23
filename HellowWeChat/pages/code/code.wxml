@@ -1,0 +1,6 @@
+<!--pages/code/code.wxml-->
+<view class="codeView">
+    <image class="imgView" src="./img/QQcode.jpg" style="width: 750rpx; height: 750rpx; display: block; box-sizing: unset">
+    </image>
+</view>
+

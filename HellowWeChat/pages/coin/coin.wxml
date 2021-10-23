@@ -1,0 +1,23 @@
+<!--pages/coin/coin.wxml-->
+<!-- <text>pages/coin/coin.wxml</text> -->
+<view id="msgView" class="msgView">
+    <text class="msgText">
+        {{msgCoin}}
+    </text>
+</view>
+
+<image style="position: relative; left: -1rpx; top: 0rpx"  class="imgCoin" src="{{imgUrl}}"/>
+<button class="btnCoin" bindtap="selectCoinService" type="primary">
+    (｡･∀･)ﾉﾞ0
+</button>
+
+
+
+
+
+
+
+
+
+
+

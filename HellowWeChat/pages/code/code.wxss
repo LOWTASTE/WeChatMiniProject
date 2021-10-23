@@ -1,0 +1,17 @@
+/* pages/code/code.wxss */
+
+.codeView{
+    position: relative;
+    text-align: center;
+    width: 100%;
+    height: 25%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+}
+
+.imgView{
+    position: relative;
+    top: 250rpx;
+}
